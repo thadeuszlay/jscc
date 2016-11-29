@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "harp": "^0.20.3",
+    "harp": "^0.23.0",
     "mocha": "^3.0.2",
     "recursive-readdir-sync": "^1.0.6",
     "hashcode": "^1.0.3"
